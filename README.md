@@ -1,3 +1,4 @@
+<img width="249" height="247" alt="image" src="https://github.com/user-attachments/assets/225e3389-bec5-4b7c-8983-ee2f95361a9c" />
 Pulse IPTV — Next-Generation IPTV Desktop Player for Windows
 
 
