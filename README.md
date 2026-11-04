@@ -56,4 +56,11 @@ Audio Codecs	AAC, AC-3 (Dolby Digital), E-AC-3, MP3, FLAC
 
 
 
+If you spot any bugs please make a issue request and i will try my best to get it fixed.
+
+
+
+
+
+
 
