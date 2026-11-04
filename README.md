@@ -41,10 +41,15 @@ Theater & Fullscreen Mode: Double-click or press F / ESC to jump into distractio
 
 
 Feature	Specification
+
 Operating System	Windows 10 & Windows 11 (64-bit)
+
 Playback Core	Native LibVLC with Direct3D11VA Hardware Acceleration
+
 Supported Protocols	Xtream Codes API, M3U, M3U8, HTTP, HTTPS, TS, RTMP, RTSP
+
 Video Codecs	H.264 (AVC), H.265 (HEVC), MPEG-2, VP9, AV1
+
 Audio Codecs	AAC, AC-3 (Dolby Digital), E-AC-3, MP3, FLAC
 
 
