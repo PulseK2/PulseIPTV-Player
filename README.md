@@ -1,4 +1,6 @@
-Pulse IPTV — Next-Generation IPTV Desktop Player for Windows
+<img width="2752" height="1536" alt="PULSEIPTV" src="https://github.com/user-attachments/assets/872d47c5-40f6-4af9-81f9-69f734129912" />
+
+                                    Pulse IPTV — Next-Generation IPTV Desktop Player for Windows
 
 
 The Ultimate All-in-One IPTV Streaming Experience
