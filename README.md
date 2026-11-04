@@ -86,7 +86,7 @@
 
 No installation or prerequisites required! The release package is **100% self-contained**:
 
-1. Download the latest **`PulseIPTV_v1.0_Windows_x64.zip`** from the [Releases](dist/) folder.
+1. Download the latest **`PulseIPTV_v1.0_Windows_x64.zip`** from here https://github.com/PulseK2/PulseIPTV-Player/releases/tag/Release.
 2. Extract the archive to any folder on your PC.
 3. Double-click **`PulseIPTV.exe`** to launch.
 4. Click **`⚡ Connect Xtream Codes`** or **`🌍 Explore Demo Streams`** to start watching!
@@ -103,30 +103,7 @@ No installation or prerequisites required! The release package is **100% self-co
 | <kbd>↑</kbd> / <kbd>↓</kbd> | Zapping: Next / Previous Channel |
 | <kbd>M</kbd> | Mute / Unmute Audio |
 
----
 
-## 🛠️ Building From Source
-
-### Prerequisites
-- Windows 10 (Build 19041+) or Windows 11 (64-bit)
-- [.NET 10.0 SDK](https://dotnet.microsoft.com/download)
-
-### 1. Clone the Repository
-```bash
-git clone https://github.com/your-username/PulseIPTV.git
-cd PulseIPTV
-```
-
-### 2. Run with Developer Launcher
-```cmd
-run.bat
-```
-*`run.bat` unblocks binaries, cleans old build artifacts, compiles the latest source code, and launches the application.*
-
-### 3. Or Publish Standalone Release
-```powershell
-dotnet publish PulseIPTV.csproj -c Release -r win-x64 --self-contained true -p:PublishSingleFile=true -o dist/PulseIPTV
-```
 
 ---
 
